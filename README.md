@@ -1,4 +1,4 @@
-#kabug-rb
+# kabug-rb
 Repositório do projeto Kabug com Cucumber, Capybara e Ruby
 
 ## Como executar o projeto
